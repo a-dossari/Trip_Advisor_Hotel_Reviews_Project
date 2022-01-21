@@ -9,12 +9,18 @@ You can find and download the dataset from [here](https://www.kaggle.com/andrewm
 
 ### **Features**
 
-**Review:** Review Text
+**Review:** 
+Review Text
 
-**Rating:** Review Rating (stars)
+
+
+**Rating:** 
+Review Rating (stars)
+
 
 
 ### **Inspiration**
+
 * Predict Review Rating (Positive or negative)
 * K-Means Clustering on Reviews
 * Explore key aspects that make hotels good or bad
