@@ -25,3 +25,4 @@ Review Rating (stars)
 * Predict Review Rating (Positive or negative)
 * K-Means Clustering on Reviews
 * Explore key aspects that make hotels good or bad
+
